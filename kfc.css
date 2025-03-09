@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+    align-items: center;
+    padding-left: 10px;
+    gap: 10px;
+    cursor: pointer;
+    position: fixed;
+    background-color: white;
+    
+}
+li{
+    list-style: none;
+}
+.img1{
+    width: 170px;
+    height: 80px;
+}
+.icon1{
+    padding-left: 270px;
+}
+.ul1{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    font-weight: bolder;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+.img2{
+    width: 1500px;
+    height: 700px;
+}
+.div1{ background-image: url(
+        ./KFC_Bucket_Search_003.webp
+    );
+    height: 600px;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.p1{
+    padding-top: 200px;
+    font-size: 45px;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.btn1{
+    color: #ffff;
+    background: #F40027;
+    padding-left: 20px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 20px;
+    
+    border: 0;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 40px;
+}
+.li3:hover{
+    color: #F40027;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: black;
+    cursor: pointer;
+    
+}
+.p2{text-align: center;
+    padding-top: 50px;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+.p3{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+
+.btn2{
+    color: #ffff;
+    background: #F40027;
+    padding-left: 35px;
+    padding-top: 17px;
+    padding-bottom: 12px;
+    padding-right: 35px;
+    border: 0;
+    font-weight: bolder;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-top: 50px;
+
+    
+
+}
+.btn2:hover{
+    background-color: black;
+    cursor: pointer;
+    
+}
+.ul2{
+    display: flex;
+    justify-content: space-between;
+}
+.btn3:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.btn3{
+    color: #ffff;
+    background: #F40027;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-right: 90px;
+    border: 0;
+    font-weight: bolder;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-top: 50px;
+
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 150px;
+    padding-top: 50px;
+    /* background-image: url(./kfc3.png); */
+    /* background-position: center; */
+    /* background-size: cover; */
+    background-color: #EEEE;
+    padding-bottom: 30px;
+}
+.img3{
+    width: 140px;
+    height: 130px;
+}
+.lli{
+    color: #F40027;
+    font-size: 15px;
+    font-weight: bolder;
+    padding-bottom: 50px;
+}
+.li4{
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 7px;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    background: white;
+    height: 10vh;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+.ul3{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+.bnt4{
+    
+
+}
